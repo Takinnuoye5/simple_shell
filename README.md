@@ -45,4 +45,4 @@ Features
 
 Credits
 
-All codes written by Debs Utomi and Addisu Dabale Gonfa
+All codes written by Akinnuoye Timothy
